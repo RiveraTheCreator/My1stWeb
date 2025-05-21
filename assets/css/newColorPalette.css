@@ -1,0 +1,96 @@
+/* actuallization color palete */
+:root {
+  --primary-100: #3D5AFE; /* Blue */
+  --primary-200: #8187ff; /* Light Blue */
+  --primary-300: #f5e9ff;
+  --accent-100: #FF4081; /* Pink */
+  --accent-200: #ffe4ff;/* Light Pink */
+  --text-100: #FFFFFF;
+  --text-200: #e0e0e0;
+  --bg-100: #1A1A1A;
+  --bg-200: #292929;
+  --bg-300: #404040;
+}
+  
+/* old color palette */
+:root {
+    /* Main Color Palette */
+    --primary-100: #726193;    /* Purple */
+    --primary-200: #6c5e86;    /* Dark Purple */
+    --primary-300: #353865;    /* Navy Blue */
+    --primary-400: #323459;    /* Dark Navy Blue */
+    
+    /* Accent Colors */
+    --accent-100: #e37b7c;     /* Salmon Pink */
+    --accent-200: #de7172;     /* Dark Salmon */
+    --accent-300: #ffe4b4;     /* Light Peach */
+    --accent-400: #fedea6;     /* Muted Peach */
+    
+    /* Text Colors */
+    --text-100: rgba(255, 255, 255, 0.875);    /* Nearly White Text */
+    --text-200: rgba(255, 255, 255, 0.75);     /* Light Gray Text */
+    --text-300: rgba(255, 255, 255, 0.5);      /* Medium Gray Text */
+    --text-400: rgba(255, 255, 255, 0.25);     /* Dark Gray Text */
+    
+    /* Background Colors */
+    --bg-100: #2e2b37;         /* Dark Background */
+    --bg-200: rgba(0, 0, 0, 0.125);  /* Transparent Black */
+    --bg-300: rgba(0, 0, 0, 0.175);  /* Darker Transparent Black */
+    
+    /* Overlay Colors */
+    --overlay-100: rgba(114, 97, 147, 0.25);   /* Purple Overlay */
+    --overlay-200: rgba(227, 123, 124, 0.25);  /* Pink Overlay */
+    --overlay-300: rgba(255, 228, 180, 0.25);  /* Peach Overlay */
+    
+    /* Form Element Colors */
+    --input-bg: rgba(255, 255, 255, 0.075);    /* Input Background */
+    --input-border: rgba(255, 255, 255, 0.25);  /* Input Border */
+  }
+  /*** CSSnew palette ***/
+  :root {
+    --primary-100: #3D5AFE; /* Blue */
+    --primary-200: #8187ff; /* Light Blue */
+    --primary-300: #f5e9ff;
+    --accent-100: #FF4081; /* Pink */
+    --accent-200: #ffe4ff;/* Light Pink */
+    --text-100: #FFFFFF;
+    --text-200: #e0e0e0;
+    --bg-100: #1A1A1A;
+    --bg-200: #292929;
+    --bg-300: #404040;
+  }
+    
+  /* old color palette */
+  :root {
+      /* Main Color Palette */
+      --primary-100: #3D5AFE;    /* Blue */
+      --primary-200: #8187ff;    /* Light Blue */
+      --primary-300: #6974E8;    /* Muted Blue */
+      --primary-400: #545ECC;    /* Dark Blue */
+      
+      /* Accent Colors */
+      --accent-100: #FF4081;     /* Pink */
+      --accent-200: #FF679A;     /* Light Pink */
+      --accent-300: #f5e9ff;     /* Light Purple */
+      --accent-400: #e8dcf2;     /* Muted Purple */
+      
+      /* Text Colors */
+      --text-100: rgba(255, 255, 255, 0.875);    /* Nearly White Text */
+      --text-200: rgba(224, 224, 224, 0.75);     /* Light Gray Text */
+      --text-300: rgba(224, 224, 224, 0.5);      /* Medium Gray Text */
+      --text-400: rgba(224, 224, 224, 0.25);     /* Dark Gray Text */
+      
+      /* Background Colors */
+      --bg-100: #1A1A1A;         /* Dark Background */
+      --bg-200: rgba(41, 41, 41, 0.125);  /* Transparent Dark Gray */
+      --bg-300: rgba(64, 64, 64, 0.175);  /* Darker Transparent Gray */
+      
+      /* Overlay Colors */
+      --overlay-100: rgba(61, 90, 254, 0.25);   /* Blue Overlay */
+      --overlay-200: rgba(255, 64, 129, 0.25);  /* Pink Overlay */
+      --overlay-300: rgba(245, 233, 255, 0.25);  /* Light Purple Overlay */
+      
+      /* Form Element Colors */
+      --input-bg: rgba(224, 224, 224, 0.075);    /* Input Background */
+      --input-border: rgba(224, 224, 224, 0.25);  /* Input Border */
+  }
